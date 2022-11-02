@@ -1,0 +1,29 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/.idea/
+/.idea_modules/
+
+# Default ignored files
+*.iml
+*.ipr
+*.iws
+*.class
+*.log
+*.pyc
+*.pyo
+*.exe
+*.dll
+*.so
+*.dylib
+*.swp
+*.bak
+*.tmp
+*.orig
+*.hg
+*.svn
+*.bzr
+*.hgignore
+*.hgsub
+*.hgsubstate
+*.hgtags
